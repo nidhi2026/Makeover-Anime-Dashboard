@@ -6,4 +6,4 @@ It uses caching to avoid exceeding API rate limits.
 ## Endpoints
 
 - `/api/dailyQuote` → returns a JSON object `{ content, character, anime, timestamp }`
-- `/api/dailyWallpaper?q=<query>` → returns `{ url, timestamp }`
+- `/api/dailyWallpaper?q=<query>` → returns `{ url, timestamp, source, page }`
