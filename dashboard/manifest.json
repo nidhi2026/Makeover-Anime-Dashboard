@@ -1,0 +1,21 @@
+{
+    "name": "Makeover",
+    "version": "1.0.2",
+    "manifest_version": 3,
+    "description": "A beautiful ghibli style makeover for your browser",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons": {
+    "16": "anime16.png",
+    "48": "anime48.png",
+    "128": "anime128.png"
+    },
+    "permissions": ["storage"],
+    "host_permissions": [
+        "https://api-proxy-server-nidhi2026-shizues-projects.vercel.app/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
