@@ -11,6 +11,17 @@ A beautiful, customizable New Tab extension that transforms your browser with st
 - **📝 Daily Quotes** - Inspirational anime quotes with full-screen modal view (updates daily)
 - **🔗 Favorites Manager** - Add, edit, and remove your frequently visited sites
 
+## ✨ Dashboard Previews
+
+| 🎨 Anime Wallpapers | 🎨 Favorites Links |
+|---------------------|---------------------|
+| <img src="https://github.com/user-attachments/assets/c384f0fa-34d1-4797-af27-5eda6dd3be74" width="400"/> | <img src="https://github.com/user-attachments/assets/03e1c608-1ac4-4b78-a051-47272258b630" width="400"/> |
+
+| 🎨 Wallpaper Source | 🎨 Anime Quote |
+|---------------------|---------------------|
+| <img src="https://github.com/user-attachments/assets/5fae7f43-cf36-4473-a114-28bb8c8587e5" width="400"/> | <img src="https://github.com/user-attachments/assets/3255da86-c832-42d6-8f44-832868274afc" width="400"/> |
+
+
 ## 🎮 Usage
 
 1. **Change Wallpaper Category**: Click on category buttons (Ghibli, Landscape, Street, etc.)
